@@ -22,7 +22,8 @@ p {
 }
 
 img {
-	size: 200x200px;
+	width: 200px;
+	height: 266px;
 }
 
 ul {
