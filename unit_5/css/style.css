@@ -21,6 +21,10 @@ p {
 	color: white;
 }
 
+img {
+	size: 200x200;
+}
+
 ul {
 	font-family: Helvetica, sans-serif;
 	font-size: 12px;
