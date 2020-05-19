@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+body {
+	background-color: #3b6bb5}
+nav {
+	font-family: 'Pangolin', cursive;
+	font-size: 12px;
+	color: #ffa374;
+}
+
+#slogan {
+	font-style: italic;
+	font-family: 'Pangolin', cursive;
+	font-size: 16px;
+	color: #ffa374;
+}
+
+p {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: white;
+}
+
+ul {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffa374;
+}
+
+blockquote {
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ffa374;
+}
+
+footer {
+	font-family: Helvetica, sans-serif;
+	font-size: 10px;
+	color: white;
+}
