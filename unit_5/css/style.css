@@ -19,6 +19,11 @@ nav {
 	color: #ffa374;
 }
 
+#heroquote {
+	font-family: 'Pangolin', cursive;
+	font-size: 22px;
+	color: #ffa374;
+}
 p {
 	font-family: Helvetica, sans-serif;
 	font-size: 18px;
