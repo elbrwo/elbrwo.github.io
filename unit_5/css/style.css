@@ -5,7 +5,7 @@ header {
 }
 
 body {
-	background-color: #fff}
+	background-color: #3b6bb5}
 nav {
 	font-family: 'Pangolin', cursive;
 	font-size: 22px;
@@ -27,22 +27,24 @@ nav {
 p {
 	font-family: Helvetica, sans-serif;
 	font-size: 18px;
-	color: #3b6bb5;
+	color: white;
 }
 
 ul {
 	font-family: Helvetica, sans-serif;
+	font-style: bold;
 	font-size: 18px;
-	color: #3b6bb5;
+	color: white;
 }
 
 blockquote {
 	font-family: Helvetica, sans-serif;
 	font-size: 18px;
-	color: #3b6bb5;
+	color: white;
 }
 
 footer {
+	background: white;
 	font-family: Helvetica, sans-serif;
 	font-size: 16px;
 	color: #3b6bb5;
