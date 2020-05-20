@@ -4,13 +4,14 @@ header {
 	background color: #3b6bb5; 
 }
 
-body {
-	background-color: #3b6bb5}
 nav {
 	font-family: 'Pangolin', cursive;
 	font-size: 22px;
 	color: #ffa374;
 }
+
+body {
+	background-color: #3b6bb5}
 
 #slogan {
 	font-style: italic;
@@ -24,6 +25,12 @@ nav {
 	font-size: 22px;
 	color: #ffa374;
 }
+
+h2 {
+	font-family: 'Pangolin', cursive;
+	font-size: 22px;
+	font-weight: bold;
+}
 p {
 	font-family: Helvetica, sans-serif;
 	font-size: 18px;
@@ -32,7 +39,7 @@ p {
 
 ul {
 	font-family: Helvetica, sans-serif;
-	font-style: bold;
+	font-weight: bold;
 	font-size: 18px;
 	color: white;
 }
@@ -40,6 +47,7 @@ ul {
 blockquote {
 	font-family: Helvetica, sans-serif;
 	font-size: 18px;
+	font-weight: bold;
 	color: white;
 }
 
