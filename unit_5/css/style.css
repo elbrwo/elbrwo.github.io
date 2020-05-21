@@ -53,6 +53,10 @@ blockquote {
 	color: white;
 }
 
+#licenses {
+	background: #ffa374;
+}
+
 footer {
 	background: white;
 	font-family: Helvetica, sans-serif;
