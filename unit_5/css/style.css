@@ -4,6 +4,9 @@ header {
 	background color: #3b6bb5; 
 }
 
+#logo {
+	size: 100x100px;
+}
 nav {
 	font-family: 'Pangolin', cursive;
 	font-size: 22px;
