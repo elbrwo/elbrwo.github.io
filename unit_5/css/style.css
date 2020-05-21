@@ -1,22 +1,70 @@
 @import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
 
+body {
+	background-color: #3b6bb5}
+
 header {
-	background color: #3b6bb5; 
+	background-color: #FFED74; 
 }
 
 nav {
 	font-family: 'Pangolin', cursive;
 	font-size: 22px;
-	color: #ffa374;
+	background-color: #E8C66A;
 }
 
-body {
-	background-color: #3b6bb5}
+#hero {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
 
 #heroquote {
 	font-family: 'Pangolin', cursive;
 	font-size: 30px;
 	color: #ffa374;
+}
+
+#intro {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#services {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#service1 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#service2 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#service3 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#testimonials {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#licenses {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 h2 {
@@ -50,7 +98,7 @@ blockquote {
 }
 
 footer {
-	background: white;
+	background: #FF957E;
 	font-family: Helvetica, sans-serif;
 	font-size: 16px;
 	color: #3b6bb5;
