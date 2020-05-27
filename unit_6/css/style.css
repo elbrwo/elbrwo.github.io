@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+body {
+	background-color: #3b6bb5}
+
+header {
+	background-color: #FFED74; 
+}
+
+nav {
+	font-family: 'Pangolin', cursive;
+	font-size: 22px;
+	background-color: #E8C66A;
+}
+
+#hero {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#heroquote {
+	font-family: 'Pangolin', cursive;
+	font-size: 30px;
+	color: #ffa374;
+}
+
+#intro {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#services {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#service1 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#service2 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#service3 {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#testimonials {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#licenses {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h2 {
+	font-family: 'Pangolin', cursive;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+}
+p {
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+	color: white;
+}
+
+ul {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	color: white;
+}
+
+blockquote {
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+}
+
+#licenses {
+	background: #ffa374;
+}
+
+footer {
+	background: #FF957E;
+	font-family: Helvetica, sans-serif;
+	font-size: 16px;
+	color: #3b6bb5;
+}
