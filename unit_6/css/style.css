@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 
 body {
 	background-color: white}
 
 header {
-	background-color: #0fb2b2; 
+	background-color: #FFB64C; 
 }
 
 nav {
-	font-family: 'Pangolin', cursive;
+	font-family: 'Inconsolata', cursive;
 	font-size: 22px;
-	background-color: #E8C66A;
+	background-color: #FFB64C;
 }
 
 #hero {
@@ -20,7 +20,7 @@ nav {
 }
 
 #heroquote {
-	font-family: 'Pangolin', cursive;
+	font-family: 'Inconsolata', cursive;
 	font-size: 30px;
 	color: #ffa374;
 }
@@ -98,26 +98,26 @@ nav {
 }
 
 h2 {
-	font-family: 'Pangolin', cursive;
+	font-family: 'Inconsolata', monospace;
 	font-size: 22px;
 	font-weight: bold;
 	color: white;
 }
 p {
-	font-family: Helvetica, sans-serif;
+	font-family: 'Inconsolata', monospace;
 	font-size: 18px;
 	color: white;
 }
 
 ul {
-	font-family: Helvetica, sans-serif;
+	font-family: 'Inconsolata', monospace;
 	font-weight: bold;
 	font-size: 18px;
 	color: white;
 }
 
 blockquote {
-	font-family: Helvetica, sans-serif;
+	font-family: 'Inconsolata', monospace;
 	font-size: 18px;
 	font-weight: bold;
 	color: white;
@@ -129,7 +129,7 @@ blockquote {
 
 footer {
 	background: #FF957E;
-	font-family: Helvetica, sans-serif;
+	font-family: 'Inconsolata', monospace;
 	font-size: 16px;
 	color: #3b6bb5;
 }
