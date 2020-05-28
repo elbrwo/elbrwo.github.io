@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 
 body {
-	background-color: white}
+	background-color: #0fb2b2}
 
 header {
 	background-color: #FFB64C; 
@@ -14,7 +14,7 @@ nav {
 }
 
 #hero {
-	background-color: #FFE2B8;
+	background-color: ##0fb2b2;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -26,37 +26,37 @@ nav {
 }
 
 #intro {
-	background-color: #FFE2B8;
+	background-color: ##0fb2b2;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #services {
-	background-color: #FFE2B8;
+	background-color: ##0fb2b2;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #service1 {
-	background-color: #FFE2B8;
+	background-color: ##0fb2b2;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #service2 {
-	background-color: #FFE2B8;
+	background-color: ##0fb2b2;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #service3 {
-	background-color: #FFE2B8;
+	background-color: ##0fb2b2;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: ##0fb2b2;
 	border: 1px black solid;
 	padding: 20px;
 }
