@@ -62,7 +62,7 @@ nav {
 }
 
 #left {
-	background-color: violet;
+	background-color: #ffb64c;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -70,7 +70,7 @@ nav {
 }
 
 #right {
-	background-color: pink;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
