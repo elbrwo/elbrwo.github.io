@@ -124,7 +124,8 @@ blockquote {
 }
 
 #licenses {
-	background: #ffa374;
+	background: white;
+	font-color: #0fb2b2;
 }
 
 footer {
