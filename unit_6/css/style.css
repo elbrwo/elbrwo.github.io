@@ -125,11 +125,12 @@ blockquote {
 
 #licenses {
 	background: white;
-	font-color: #0fb2b2;
+	color: #0fb2b2;
 }
 
 footer {
-	background: #FFB64C;
+	background: #0fb2b2;
 	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
+	color: #0fb2b2;
 }
