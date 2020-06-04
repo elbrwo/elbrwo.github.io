@@ -39,23 +39,14 @@ nav {
 .services {
 	float: left;
 	width: 33%;
+	background-color: ##0fb2b2;
+	text-align: center;
 }
 
 #servicescontainer {
 	overflow: hidden;
 	position: relative;
-}
 
-#service1 {
-	background-color: ##0fb2b2;
-}
-
-#service2 {
-	background-color: ##0fb2b2;
-}
-
-#service3 {
-	background-color: ##0fb2b2;
 }
 
 .clearfix:after{
