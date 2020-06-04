@@ -55,28 +55,6 @@ nav {
 	padding: 20px;
 }
 
-#two_column {
-	background-color: ##0fb2b2;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#left {
-	background-color: #ffb64c;
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 30%;
-}
-
-#right {
-	background-color: #ffb64c;
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 62%;
-}
-
 .clearfix:after{
 	visibility: hidden;
 	display: block;
