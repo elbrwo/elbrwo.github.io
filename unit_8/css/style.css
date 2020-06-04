@@ -37,6 +37,15 @@ nav {
 	padding: 20px;
 }
 
+.services {
+	float: left;
+}
+
+#servicescontainer {
+	overflow: hidden;
+	position: relative;
+}
+
 #service1 {
 	background-color: ##0fb2b2;
 	border: 1px black solid;
