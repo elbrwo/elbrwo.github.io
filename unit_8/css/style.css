@@ -33,6 +33,7 @@ nav {
 
 #services {
 	background-color: ##0fb2b2;
+	padding: 20px;
 }
 
 .services {
@@ -47,17 +48,14 @@ nav {
 
 #service1 {
 	background-color: ##0fb2b2;
-	padding: 20px;
 }
 
 #service2 {
 	background-color: ##0fb2b2;
-	padding: 20px;
 }
 
 #service3 {
 	background-color: ##0fb2b2;
-	padding: 20px;
 }
 
 .clearfix:after{
