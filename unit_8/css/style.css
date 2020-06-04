@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body {
+	background-color: #0fb2b2}
+
+header {
+	background-color: #FFB64C; 
+}
+
+nav {
+	font-family: 'Roboto Slab', serif;
+	font-size: 22px;
+	background-color: #FFB64C;
+}
+
+#hero {
+	background-color: ##0fb2b2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#heroquote {
+	font-family: 'Roboto Slab', serif;
+	font-size: 30px;
+	color: #ffa374;
+}
+
+#intro {
+	background-color: ##0fb2b2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#services {
+	background-color: ##0fb2b2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#service1 {
+	background-color: ##0fb2b2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#service2 {
+	background-color: ##0fb2b2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#service3 {
+	background-color: ##0fb2b2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two_column {
+	background-color: ##0fb2b2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #ffb64c;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: #ffb64c;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+#testimonials {
+	background-color: #0fb2b2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#licenses {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h2 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+}
+p {
+	font-family: 'Roboto Slab', serif;
+	font-size: 18px;
+	color: white;
+}
+
+ul {
+	font-family: 'Roboto Slab', serif;
+	font-weight: bold;
+	font-size: 18px;
+	color: white;
+}
+
+blockquote {
+	font-family: 'Roboto Slab', serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+}
+
+#licenses {
+	background: white;
+	color: #0fb2b2;
+}
+
+footer {
+	background: #0fb2b2;
+	font-family: 'Roboto Slab', serif;
+	font-size: 16px;
+	color: #0fb2b2;
+}
