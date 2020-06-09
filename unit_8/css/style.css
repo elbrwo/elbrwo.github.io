@@ -47,7 +47,6 @@ nav {
 #servicescontainer {
 	overflow: hidden;
 	position: relative;
-
 }
 
 .clearfix:after{
@@ -58,9 +57,21 @@ nav {
 	clear: both;
 	height: 0;
 }
+
 #testimonials {
 	background-color: #0fb2b2;
 	padding: 20px;
+}
+
+.services {
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+#testimonialscontainer {
+	overflow: hidden;
+	position: relative;
 }
 
 #licenses {
