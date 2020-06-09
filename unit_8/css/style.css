@@ -17,12 +17,14 @@ nav {
 #hero {
 	background-color: ##0fb2b2;
 	padding: 20px;
+	justify-content: right;
 }
 
 #heroquote {
 	font-family: 'Roboto Slab', serif;
 	font-size: 30px;
 	color: #ffa374;
+	justify-content: left;
 }
 
 #intro {
