@@ -52,7 +52,7 @@ nav {
 }
 
 #licenses {
-	background-color: #FFE2B8;
+	background-color: #FFB64C;
 	padding: 20px;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -107,11 +107,6 @@ blockquote {
 	font-size: 18px;
 	font-weight: bold;
 	color: white;
-}
-
-#licenses {
-	background: white;
-	color: #FFB64C;
 }
 
 footer {
