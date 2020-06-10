@@ -11,20 +11,13 @@ nav {
 	font-family: 'Roboto Slab', serif;
 	font-size: 22px;
 	background-color: #FFB64C;
-	color: ##0fb2b2;
+	color: #0fb2b2;
 }
 
 #hero {
-	background-color: ##0fb2b2;
+	background-color: #0fb2b2;
 	padding: 20px;
 	justify-content: right;
-}
-
-#heroquote {
-	font-family: 'Roboto Slab', serif;
-	font-size: 30px;
-	color: #ffa374;
-	justify-content: left;
 }
 
 #intro {
