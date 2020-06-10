@@ -20,6 +20,11 @@ nav {
 	justify-content: right;
 }
 
+#heroimg {
+	width: 100%;
+	display: block;
+}
+
 #heroquote {
 	font-family: 'Roboto Slab', serif;
 	font-size: 30px;
