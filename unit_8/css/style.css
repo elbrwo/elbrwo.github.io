@@ -17,7 +17,8 @@ nav {
 
 #hero {
 	background-color: #0fb2b2;
-	padding: 20px;
+	padding: 5em;
+	width: 100%;
 	justify-content: right;
 }
 
