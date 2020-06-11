@@ -58,6 +58,13 @@ nav {
 	padding-right: 20px;
 }
 
+.licenses {
+	width: 280px;
+	padding: 50px;
+	margin: 0 10px;
+	float: left;
+}
+
 #testimonials {
 	background-color: #0fb2b2;
 	padding: 20px;
