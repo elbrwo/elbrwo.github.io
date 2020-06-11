@@ -54,14 +54,11 @@ nav {
 
 #licenses {
 	background-color: #FFB64C;
-	padding-left: 2em;
-	padding-right: 2em;
-	
 }
 
 .licenses {
-	width: 280px;
-	padding: 50px;
+	width: 33%;
+	padding: 10%;
 	margin: 0 10px;
 	float: left;
 }
