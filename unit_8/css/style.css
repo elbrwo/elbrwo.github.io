@@ -64,9 +64,10 @@ nav {
 }
 
 .testimonials {
+	width: 280px;
+	padding: 10px;
+	margin: 0 10px;
 	float: left;
-	width: 33%;
-	text-align: center;
 }
 
 #testimonialscontainer {
