@@ -9,17 +9,9 @@ body {
 
 nav {
 	font-family: 'Roboto Slab', serif;
-	font-size: 1.8em;
-	float: right;
+	font-size: 22px;
 	background-color: #FFB64C;
 	color: #0fb2b2;
-}
-
-nav a{
-	text-decoration: none;
-	color: #000
-	margin: 1.8em;
-	display: inline-block;
 }
 
 #hero {
@@ -72,6 +64,7 @@ nav a{
 	margin: 0 10px;
 	float: left;
 }
+
 
 #testimonials {
 	background-color: #0fb2b2;
@@ -130,6 +123,4 @@ footer {
 	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
 	color: #0fb2b2;
-	text-align: center;
-	padding: 1em 0;
 }
