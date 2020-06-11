@@ -65,6 +65,10 @@ nav {
 	float: left;
 }
 
+#licensescontainer {
+	overflow: hidden;
+	position: relative;
+}
 
 #testimonials {
 	background-color: #0fb2b2;
