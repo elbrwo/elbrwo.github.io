@@ -63,6 +63,10 @@ nav {
 	padding: 50px;
 	margin: 0 10px;
 	float: left;
+
+	img {
+		width: 100%;
+	}
 }
 
 #licensescontainer {
