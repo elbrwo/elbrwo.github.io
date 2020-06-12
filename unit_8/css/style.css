@@ -109,26 +109,26 @@ nav {
 
 h2 {
 	font-family: 'Roboto Slab', serif;
-	font-size: 22px;
+	font-size: 1.5em;
 	font-weight: bold;
 	color: white;
 }
 p {
 	font-family: 'Roboto Slab', serif;
-	font-size: 18px;
+	font-size: 1.1em;
 	color: white;
 }
 
 ul {
 	font-family: 'Roboto Slab', serif;
 	font-weight: bold;
-	font-size: 18px;
+	font-size: 1.1em;
 	color: white;
 }
 
 blockquote {
 	font-family: 'Roboto Slab', serif;
-	font-size: 18px;
+	font-size: 1.1em;
 	font-weight: bold;
 	color: white;
 }
@@ -136,7 +136,7 @@ blockquote {
 footer {
 	background: #0fb2b2;
 	font-family: 'Roboto Slab', serif;
-	font-size: 16px;
+	font-size: 1em;
 	color: #0fb2b2;
 }
 
